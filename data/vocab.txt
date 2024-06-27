@@ -1,0 +1,8 @@
+hello
+car
+road
+height 
+laptop 
+hike 
+pencil 
+mouse 
